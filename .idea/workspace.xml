@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bdc8969-c59a-462d-ba5c-f9f8cae4e9aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/loops.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generics.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/loops.ts">
+        <entry file="file://$PROJECT_DIR$/generics.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+            <state relative-caret-position="374">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -39,6 +39,7 @@
         <option value="$PROJECT_DIR$/abstractclasses.ts" />
         <option value="$PROJECT_DIR$/interfaces.ts" />
         <option value="$PROJECT_DIR$/loops.ts" />
+        <option value="$PROJECT_DIR$/generics.ts" />
       </list>
     </option>
   </component>
@@ -100,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1556614621112</updated>
       <workItem from="1556614622550" duration="8420000" />
-      <workItem from="1556701282344" duration="2646000" />
+      <workItem from="1556701282344" duration="3280000" />
     </task>
     <task id="LOCAL-00001" summary="Abstract Classes">
       <created>1556708429864</created>
@@ -123,11 +124,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556709424820</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="loops">
+      <created>1556709657443</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1556709657443</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11066000" />
+    <option name="totallyTimeSpent" value="11700000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -148,8 +156,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="TypeScript" order="9" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49932885" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067115" side_tool="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -170,6 +178,7 @@
         <option value="$PROJECT_DIR$/abstractclasses.js" />
         <option value="$PROJECT_DIR$/interfaces.js" />
         <option value="$PROJECT_DIR$/loops.js" />
+        <option value="$PROJECT_DIR$/generics.js" />
       </list>
     </option>
   </component>
@@ -178,7 +187,8 @@
     <MESSAGE value="Abstract Classes" />
     <MESSAGE value="interfaces" />
     <MESSAGE value="intellij settings update" />
-    <option name="LAST_COMMIT_MESSAGE" value="intellij settings update" />
+    <MESSAGE value="loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="loops" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/intro.js">
@@ -223,6 +233,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generics.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
