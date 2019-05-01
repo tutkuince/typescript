@@ -13,7 +13,7 @@ let city = valueWithString("Izmir");
 console.log(city);
 
 
-// Generic
+// Generic Methods
 function valueWithGeneric<T>(value: T): T {
     return value;
 }
@@ -23,3 +23,18 @@ console.log(num1);
 
 let city1 = valueWithGeneric<string>("Izmir");
 console.log(city1);
+
+
+
+// Generic Classes
+class GenericClass<T> {
+    variable: T;
+
+    function(parameter: T): T {
+        return parameter;
+    }
+}
+
+let student = new GenericClass<string>();
+console.log(student.variable = "Hi!");
+console.log(student.function("Hello!"));
