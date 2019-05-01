@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bdc8969-c59a-462d-ba5c-f9f8cae4e9aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interfaces.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/interfaces.ts">
+        <entry file="file://$PROJECT_DIR$/loops.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -39,6 +38,7 @@
         <option value="$PROJECT_DIR$/classes.ts" />
         <option value="$PROJECT_DIR$/abstractclasses.ts" />
         <option value="$PROJECT_DIR$/interfaces.ts" />
+        <option value="$PROJECT_DIR$/loops.ts" />
       </list>
     </option>
   </component>
@@ -100,7 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1556614621112</updated>
       <workItem from="1556614622550" duration="8420000" />
-      <workItem from="1556701282344" duration="2261000" />
+      <workItem from="1556701282344" duration="2646000" />
     </task>
     <task id="LOCAL-00001" summary="Abstract Classes">
       <created>1556708429864</created>
@@ -109,11 +109,25 @@
       <option name="project" value="LOCAL" />
       <updated>1556708429864</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="interfaces">
+      <created>1556709387989</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556709387989</updated>
+    </task>
+    <task id="LOCAL-00003" summary="intellij settings update">
+      <created>1556709424820</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1556709424820</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10681000" />
+    <option name="totallyTimeSpent" value="11066000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -154,13 +168,17 @@
         <option value="$PROJECT_DIR$/functions.js" />
         <option value="$PROJECT_DIR$/classes.js" />
         <option value="$PROJECT_DIR$/abstractclasses.js" />
+        <option value="$PROJECT_DIR$/interfaces.js" />
+        <option value="$PROJECT_DIR$/loops.js" />
       </list>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="Abstract Classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Abstract Classes" />
+    <MESSAGE value="interfaces" />
+    <MESSAGE value="intellij settings update" />
+    <option name="LAST_COMMIT_MESSAGE" value="intellij settings update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/intro.js">
@@ -198,6 +216,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loops.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
         </state>
       </provider>
     </entry>
